@@ -1,0 +1,7 @@
+﻿  problem2.cpp
+C:\Users\fabri\source\repos\Cpts122Exam2Question2\Cpts122Exam2Question2\problem2.cpp(45,26): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\fabri\source\repos\Cpts122Exam2Question2\Cpts122Exam2Question2\problem2.cpp(57,39): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\fabri\source\repos\Cpts122Exam2Question2\Cpts122Exam2Question2\problem2.cpp(62,19): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\fabri\source\repos\Cpts122Exam2Question2\Cpts122Exam2Question2\problem2.cpp(72,39): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\fabri\source\repos\Cpts122Exam2Question2\Cpts122Exam2Question2\problem2.cpp(77,19): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+  Cpts122Exam2Question2.vcxproj -> C:\Users\fabri\source\repos\Cpts122Exam2Question2\Debug\Cpts122Exam2Question2.exe

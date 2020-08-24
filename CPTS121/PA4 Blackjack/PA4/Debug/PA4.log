@@ -1,0 +1,5 @@
+﻿  blackjack.c
+  main.c
+  Generating Code...
+C:\Users\fabri\source\repos\PA4\PA4\blackjack.c(186,18): warning C4244:  'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PA4.vcxproj -> C:\Users\fabri\source\repos\PA4\Debug\PA4.exe

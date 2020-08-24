@@ -1,0 +1,2 @@
+﻿  main.c
+C:\Users\fabri\source\repos\cpts\PA1\PA1\main.c(75,9): warning C4476:  'printf' : unknown type field character ')' in format specifier

@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (PA1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  function.c
+C:\Users\fabri\source\repos\cpts\PA2\PA1\function.c(49,12): warning C4244:  'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\fabri\source\repos\cpts\PA2\PA1\function.c(70,15): warning C4244:  'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\fabri\source\repos\cpts\PA2\PA1\function.c(91,22): warning C4244:  'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\fabri\source\repos\cpts\PA2\PA1\function.c(133,17): warning C4244:  'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\fabri\source\repos\cpts\PA2\PA1\function.c(154,17): warning C4244:  'return': conversion from 'double' to 'int', possible loss of data
+  PA1.vcxproj -> C:\Users\fabri\source\repos\cpts\PA2\x64\Debug\PA2.exe

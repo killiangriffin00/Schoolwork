@@ -1,0 +1,10 @@
+﻿  yahtzee.c
+C:\Users\fabri\source\repos\PA5\PA5\yahtzee.c(27,8): warning C4013:  'system' undefined; assuming extern returning int
+C:\Users\fabri\source\repos\PA5\PA5\yahtzee.c(65,22): warning C4013:  'rand' undefined; assuming extern returning int
+C:\Users\fabri\source\repos\PA5\PA5\yahtzee.c(300,7): warning C4013:  'srand' undefined; assuming extern returning int
+C:\Users\fabri\source\repos\PA5\PA5\yahtzee.c(503,29): warning C4020:  'chance': too many actual parameters
+C:\Users\fabri\source\repos\PA5\PA5\yahtzee.c(621,29): warning C4020:  'chance': too many actual parameters
+C:\Users\fabri\source\repos\PA5\PA5\yahtzee.c(67): warning C4716:  'roll_dice': must return a value
+C:\Users\fabri\source\repos\PA5\PA5\yahtzee.c(72): warning C4716:  'roll_spec_die': must return a value
+C:\Users\fabri\source\repos\PA5\PA5\yahtzee.c(59): warning C4716:  'print_rules': must return a value
+  PA5.vcxproj -> C:\Users\fabri\source\repos\PA5\Debug\PA5.exe

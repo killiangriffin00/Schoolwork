@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\fabri\source\repos\PA6\PA6\main.c(25,18): warning C4244:  'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\fabri\source\repos\PA6\PA6\main.c(18,1): warning C4047:  'initializing': 'char' differs in levels of indirection from 'char [2]'
+  PA6.vcxproj -> C:\Users\fabri\source\repos\PA6\x64\Debug\PA6.exe

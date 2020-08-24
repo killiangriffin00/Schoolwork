@@ -1,0 +1,43 @@
+﻿  main.c
+  playlist.c
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\main.c(18,7): warning C4101:  'topline': unreferenced local variable
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(82,43): warning C4047:  '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(88,46): warning C4047:  '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(94,49): warning C4047:  '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(100,43): warning C4047:  '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(127,34): warning C4133:  '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(129,37): warning C4133:  '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(130,33): warning C4133:  '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(136,32): warning C4133:  '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(153,26): warning C4020:  'isEmpty': too many actual parameters
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(186,26): warning C4133:  '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(187,22): warning C4133:  '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(255,27): warning C4133:  '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(256,23): warning C4133:  '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(270,25): warning C4047:  '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(304,27): warning C4133:  '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(305,23): warning C4133:  '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(352,27): warning C4133:  '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(353,23): warning C4133:  '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(391,24): warning C4047:  '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(404,26): warning C4133:  '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(405,29): warning C4133:  '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(411,30): warning C4133:  '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(429,22): warning C4047:  '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(461,27): warning C4133:  '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(462,30): warning C4133:  '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(468,30): warning C4133:  '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(497,37): warning C4047:  '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(510,40): warning C4047:  '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(523,43): warning C4047:  '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(536,37): warning C4047:  '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(597,21): warning C4047:  '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(609,27): warning C4133:  '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(610,30): warning C4133:  '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(616,30): warning C4133:  '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(648,26): warning C4020:  'isEmpty': too many actual parameters
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(650,11): warning C4098:  'playList': 'void' function returning a value
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(675,26): warning C4133:  '=': incompatible types - from 'Node *' to 'Node *'
+  Generating Code...
+C:\Users\fabri\source\repos\CPTS122\122PA2\122PA2\playlist.c(676,22): warning C4133:  '=': incompatible types - from 'Node *' to 'Node *'
+  122PA2.vcxproj -> C:\Users\fabri\source\repos\CPTS122\122PA2\Debug\122PA2.exe

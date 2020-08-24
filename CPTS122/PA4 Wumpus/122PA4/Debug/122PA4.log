@@ -1,0 +1,5 @@
+﻿  main.cpp
+  wumpus.cpp
+  Generating Code...
+C:\Users\fabri\source\repos\122PA4\122PA4\main.cpp(18,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  122PA4.vcxproj -> C:\Users\fabri\source\repos\122PA4\Debug\122PA4.exe

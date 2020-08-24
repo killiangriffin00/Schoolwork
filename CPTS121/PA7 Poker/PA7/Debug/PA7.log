@@ -1,0 +1,10 @@
+﻿  main.c
+  poker.c
+C:\Users\fabri\source\repos\CPTS121\PA7\PA7\poker.c(166,30): warning C4047:  '=': 'int' differs in levels of indirection from 'int *'
+C:\Users\fabri\source\repos\CPTS121\PA7\PA7\poker.c(189,30): warning C4047:  '=': 'int' differs in levels of indirection from 'int *'
+C:\Users\fabri\source\repos\CPTS121\PA7\PA7\poker.c(212,30): warning C4047:  '=': 'int' differs in levels of indirection from 'int *'
+C:\Users\fabri\source\repos\CPTS121\PA7\PA7\poker.c(235,30): warning C4047:  '=': 'int' differs in levels of indirection from 'int *'
+C:\Users\fabri\source\repos\CPTS121\PA7\PA7\poker.c(259,30): warning C4047:  '=': 'int' differs in levels of indirection from 'int *'
+  Generating Code...
+C:\Users\fabri\source\repos\CPTS121\PA7\PA7\poker.c(154,1): warning C4047:  'initializing': 'int' differs in levels of indirection from 'int *'
+  PA7.vcxproj -> C:\Users\fabri\source\repos\CPTS121\PA7\Debug\PA7.exe

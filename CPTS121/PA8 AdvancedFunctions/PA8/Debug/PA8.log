@@ -1,0 +1,10 @@
+﻿  function.c
+C:\Users\fabri\source\repos\PA8\PA8\function.c(26,25): warning C4047:  '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\fabri\source\repos\PA8\PA8\function.c(35,30): warning C4047:  '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\fabri\source\repos\PA8\PA8\function.c(132,43): warning C4047:  '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\fabri\source\repos\PA8\PA8\function.c(140,45): warning C4047:  '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\fabri\source\repos\PA8\PA8\function.c(143,47): warning C4047:  '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\fabri\source\repos\PA8\PA8\function.c(153,56): warning C4047:  '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\fabri\source\repos\PA8\PA8\function.c(172,58): warning C4047:  '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\fabri\source\repos\PA8\PA8\function.c(104): warning C4715:  'is_palendrome': not all control paths return a value
+C:\Users\fabri\source\repos\PA8\PA8\function.c(124): warning C4715:  'sum_primes': not all control paths return a value
