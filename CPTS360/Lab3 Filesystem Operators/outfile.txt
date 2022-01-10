@@ -1,0 +1,14 @@
+execve failed on path /usr/local/sbin/cat, r = -1
+line = /usr/local/bin/cat
+execve failed on path /usr/local/bin/cat, r = -1
+line = /usr/sbin/cat
+execve failed on path /usr/sbin/cat, r = -1
+line = /usr/bin/cat
+test text
+execve failed on path /usr/local/sbin/cat, r = -1
+line = /usr/local/bin/cat
+execve failed on path /usr/local/bin/cat, r = -1
+line = /usr/sbin/cat
+execve failed on path /usr/sbin/cat, r = -1
+line = /usr/bin/cat
+test text

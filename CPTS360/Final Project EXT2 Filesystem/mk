@@ -1,0 +1,3 @@
+clear
+rm a.out 2> /dv/nll
+gcc main.c util.c cd_ls_pwd.c mkdir_creat.c link_unlink.c rmdir.c stat_chmod.c write_cp.c open_close_lseek.c read_cat.c mount_umount.c
