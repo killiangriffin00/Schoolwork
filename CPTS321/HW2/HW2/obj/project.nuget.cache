@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ltYQSAa/FfbFUgWIUYbIYIA/sLVNzbdbfE52Pn7i60/t9itjhiOGJqIy8/jaaGFxax11swit4DnnSxDgj3+e4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabri\\source\\repos\\cpts321-hws\\HW2\\HW2\\HW2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabri\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

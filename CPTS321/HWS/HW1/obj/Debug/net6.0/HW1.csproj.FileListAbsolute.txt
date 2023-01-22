@@ -1,0 +1,15 @@
+F:\Users\Killian\source\repos\cpts321-hws\HW0\HW1\obj\Debug\net6.0\HW1.csproj.AssemblyReference.cache
+F:\Users\Killian\source\repos\cpts321-hws\HW0\HW1\obj\Debug\net6.0\HW1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\Killian\source\repos\cpts321-hws\HW0\HW1\obj\Debug\net6.0\HW1.AssemblyInfoInputs.cache
+F:\Users\Killian\source\repos\cpts321-hws\HW0\HW1\obj\Debug\net6.0\HW1.AssemblyInfo.cs
+F:\Users\Killian\source\repos\cpts321-hws\HW0\HW1\obj\Debug\net6.0\HW1.csproj.CoreCompileInputs.cache
+F:\Users\Killian\source\repos\cpts321-hws\HW0\HW1\bin\Debug\net6.0\HW1.exe
+F:\Users\Killian\source\repos\cpts321-hws\HW0\HW1\bin\Debug\net6.0\HW1.deps.json
+F:\Users\Killian\source\repos\cpts321-hws\HW0\HW1\bin\Debug\net6.0\HW1.runtimeconfig.json
+F:\Users\Killian\source\repos\cpts321-hws\HW0\HW1\bin\Debug\net6.0\HW1.dll
+F:\Users\Killian\source\repos\cpts321-hws\HW0\HW1\bin\Debug\net6.0\HW1.pdb
+F:\Users\Killian\source\repos\cpts321-hws\HW0\HW1\obj\Debug\net6.0\HW1.dll
+F:\Users\Killian\source\repos\cpts321-hws\HW0\HW1\obj\Debug\net6.0\refint\HW1.dll
+F:\Users\Killian\source\repos\cpts321-hws\HW0\HW1\obj\Debug\net6.0\HW1.pdb
+F:\Users\Killian\source\repos\cpts321-hws\HW0\HW1\obj\Debug\net6.0\HW1.genruntimeconfig.cache
+F:\Users\Killian\source\repos\cpts321-hws\HW0\HW1\obj\Debug\net6.0\ref\HW1.dll

@@ -1,0 +1,12 @@
+C:\Users\fabri\source\repos\cpts321-hws\Spreadsheet_Killian_Griffin\SpreadsheetEngine\bin\Debug\net6.0\SpreadsheetEngine.deps.json
+C:\Users\fabri\source\repos\cpts321-hws\Spreadsheet_Killian_Griffin\SpreadsheetEngine\bin\Debug\net6.0\SpreadsheetEngine.dll
+C:\Users\fabri\source\repos\cpts321-hws\Spreadsheet_Killian_Griffin\SpreadsheetEngine\bin\Debug\net6.0\SpreadsheetEngine.pdb
+C:\Users\fabri\source\repos\cpts321-hws\Spreadsheet_Killian_Griffin\SpreadsheetEngine\obj\Debug\net6.0\SpreadsheetEngine.csproj.AssemblyReference.cache
+C:\Users\fabri\source\repos\cpts321-hws\Spreadsheet_Killian_Griffin\SpreadsheetEngine\obj\Debug\net6.0\SpreadsheetEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\source\repos\cpts321-hws\Spreadsheet_Killian_Griffin\SpreadsheetEngine\obj\Debug\net6.0\SpreadsheetEngine.AssemblyInfoInputs.cache
+C:\Users\fabri\source\repos\cpts321-hws\Spreadsheet_Killian_Griffin\SpreadsheetEngine\obj\Debug\net6.0\SpreadsheetEngine.AssemblyInfo.cs
+C:\Users\fabri\source\repos\cpts321-hws\Spreadsheet_Killian_Griffin\SpreadsheetEngine\obj\Debug\net6.0\SpreadsheetEngine.csproj.CoreCompileInputs.cache
+C:\Users\fabri\source\repos\cpts321-hws\Spreadsheet_Killian_Griffin\SpreadsheetEngine\obj\Debug\net6.0\SpreadsheetEngine.dll
+C:\Users\fabri\source\repos\cpts321-hws\Spreadsheet_Killian_Griffin\SpreadsheetEngine\obj\Debug\net6.0\refint\SpreadsheetEngine.dll
+C:\Users\fabri\source\repos\cpts321-hws\Spreadsheet_Killian_Griffin\SpreadsheetEngine\obj\Debug\net6.0\SpreadsheetEngine.pdb
+C:\Users\fabri\source\repos\cpts321-hws\Spreadsheet_Killian_Griffin\SpreadsheetEngine\obj\Debug\net6.0\ref\SpreadsheetEngine.dll

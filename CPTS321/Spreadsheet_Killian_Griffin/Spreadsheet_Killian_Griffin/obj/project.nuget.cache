@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xqEHVVOblZgj6h+7Zaht7QSoN4nu/loTaFpvMRmF5SGg1p8O1rjpU1ty1oMP95TK74F1xAn6iwXpWIWOyUImVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabri\\source\\repos\\cpts321-hws\\Spreadsheet_Killian_Griffin\\Spreadsheet_Killian_Griffin\\Spreadsheet_Killian_Griffin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabri\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

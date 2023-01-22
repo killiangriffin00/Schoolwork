@@ -1,0 +1,139 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\fabri\\source\\repos\\cpts321-hws\\Spreadsheet_Killian_Griffin\\Spreadsheet_Killian_Griffin\\Spreadsheet_Killian_Griffin.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\fabri\\source\\repos\\cpts321-hws\\Spreadsheet_Killian_Griffin\\SpreadsheetEngine\\SpreadsheetEngine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fabri\\source\\repos\\cpts321-hws\\Spreadsheet_Killian_Griffin\\SpreadsheetEngine\\SpreadsheetEngine.csproj",
+        "projectName": "SpreadsheetEngine",
+        "projectPath": "C:\\Users\\fabri\\source\\repos\\cpts321-hws\\Spreadsheet_Killian_Griffin\\SpreadsheetEngine\\SpreadsheetEngine.csproj",
+        "packagesPath": "C:\\Users\\fabri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fabri\\source\\repos\\cpts321-hws\\Spreadsheet_Killian_Griffin\\SpreadsheetEngine\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\fabri\\source\\repos\\cpts321-hws\\Spreadsheet_Killian_Griffin\\Spreadsheet_Killian_Griffin\\Spreadsheet_Killian_Griffin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fabri\\source\\repos\\cpts321-hws\\Spreadsheet_Killian_Griffin\\Spreadsheet_Killian_Griffin\\Spreadsheet_Killian_Griffin.csproj",
+        "projectName": "Spreadsheet_Killian_Griffin",
+        "projectPath": "C:\\Users\\fabri\\source\\repos\\cpts321-hws\\Spreadsheet_Killian_Griffin\\Spreadsheet_Killian_Griffin\\Spreadsheet_Killian_Griffin.csproj",
+        "packagesPath": "C:\\Users\\fabri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fabri\\source\\repos\\cpts321-hws\\Spreadsheet_Killian_Griffin\\Spreadsheet_Killian_Griffin\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\fabri\\source\\repos\\cpts321-hws\\Spreadsheet_Killian_Griffin\\SpreadsheetEngine\\SpreadsheetEngine.csproj": {
+                "projectPath": "C:\\Users\\fabri\\source\\repos\\cpts321-hws\\Spreadsheet_Killian_Griffin\\SpreadsheetEngine\\SpreadsheetEngine.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

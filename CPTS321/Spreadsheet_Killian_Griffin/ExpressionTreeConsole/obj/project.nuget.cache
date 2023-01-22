@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OFSB4rs4KNfg2gbUgeywzEM6zH6gXOFR6bnsKWccsE5Z9g25EfN8QnPCF9r2fjhPaACb1PfRcMpSxr7/SMLSHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabri\\source\\repos\\cpts321-hws\\Spreadsheet_Killian_Griffin\\ExpressionTreeConsole\\ExpressionTreeConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabri\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
